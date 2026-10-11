@@ -1,6 +1,6 @@
 import { formatPrice, getChangeBadge } from '@/lib/utils';
 import type { Product } from '@/types';
-import Link from 'next/links';
+import Link from 'next/link';
 
 interface PriceTickerProps {
   products: Product[];
