@@ -52,9 +52,6 @@ Powered by BetterAuth with:
 ## 🚀 Run Locally
 
 ```bash
-# Clone the repository
-git clone https://github.com/shourovkumar/bazar-dor.git
-
 # Navigate into project
 cd bazar-dor
 
@@ -78,8 +75,8 @@ Open http://localhost:3000 in your browser.
 
 ## 👤 Author
 
-**Shourov Kumar**
-- GitHub: [@shourovkumar](https://github.com/shourovkumar)
+**Pushpita Proma**
+- GitHub: [@shourovkumar](https://github.com/pushpitadeveloper)
 - Live Site: [Bazar Dor](https://bazar-dor-web-liart.vercel.app)
 
 ---
