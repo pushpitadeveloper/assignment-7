@@ -29,7 +29,7 @@ export default function Hero() {
           <Image
             src="/images/basket-hero.png"
             alt="বাজারের ঝুড়ি"
-            width={300}
+            width={400}
             height={400}
             className="w-full max-w-[240px] sm:max-w-[280px] md:max-w-xs"
             priority
