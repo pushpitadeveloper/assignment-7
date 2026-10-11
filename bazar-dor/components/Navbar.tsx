@@ -145,7 +145,7 @@ export default function Navbar({ categories = [] }: NavbarProps) {
               </button>
             </li>
 
-            {/* Desktop: "সব" link */}
+            {/* Desktop: "সব" links */}
             <li className="hidden md:flex flex-shrink-0">
               <Link
                 href="/"
