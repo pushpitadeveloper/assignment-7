@@ -76,7 +76,7 @@ Open http://localhost:3000 in your browser.
 ## 👤 Author
 
 **Pushpita Proma**
-- GitHub: [@shourovkumar](https://github.com/pushpitadeveloper)
+- GitHub: [@pushpitadeveloper](https://github.com/pushpitadeveloper)
 - Live Site: [Bazar Dor](https://bazar-dor-web-liart.vercel.app)
 
 ---
